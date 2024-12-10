@@ -1,0 +1,17 @@
+{
+  "platforms": [
+    "apple",
+    "android",
+    "web"
+  ],
+  "apple": {
+    "modules": [
+      "ExpoCardProvisioningModule"
+    ]
+  },
+  "android": {
+    "modules": [
+      "expo.modules.cardprovisioning.ExpoCardProvisioningModule"
+    ]
+  }
+}
